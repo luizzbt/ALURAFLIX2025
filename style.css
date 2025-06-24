@@ -1,9 +1,15 @@
 body{
     font-family: "Chakra Petch", sans-serif;
+    margin:0px;
     background-color: rgb(185, 228, 228);
     color: rgb(8, 8, 8);
     
 }
+
+header{
+    border: solid 2px rgb(4, 98, 117)
+}
+
 h1 {
     font-size: 40px;
     color: rgba(0, 0, 0, 0.663);
