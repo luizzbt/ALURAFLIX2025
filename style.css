@@ -7,8 +7,10 @@ body{
 }
 
 header{
-    font-size: 25px
-    border-bottom;: solid 2px rgb(4, 98, 117)
+    border-bottom: solid 2px rgb(4, 138, 138);
+    margin: 20px;
+    padding: 20px;
+
 }
 
 h1 {
