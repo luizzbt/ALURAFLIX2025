@@ -27,7 +27,7 @@ p {
     text-align: justify;
 }
 
-section {
+.chamada {
     background: rgba(97, 97, 167, 0.437);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -49,7 +49,7 @@ img{
     gap: 15px;
 }
 
-section{
+.chamada{
     padding-left: 20px;
     padding-right: 20px;
 }
